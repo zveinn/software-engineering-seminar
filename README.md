@@ -15,7 +15,7 @@
 
 ### Lesson 2
  * Working with Memory (RAM)
-   - Variables (Global/Local), Pointers, bytes + bits
+   - Pointers
  * Working with the Hard Drive
    - Writing Files, Reading Files, Deleting Files
 
@@ -74,6 +74,8 @@
 ### Lesson 14
  * Recaping selected lessons
 
+### Lesson 15
+ * SELF REPLICATING PROGRAMS
 
 <br>
 <br>
@@ -83,3 +85,9 @@
  * Front-End Programming
     - Javascript, Html, css
     - ReactJS
+
+# OTHER THINGS WE CAN REVIEW
+1. bit masking
+
+# LINKS AND OTHER RESOURCES
+ - ASCII TABLE: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ASCII-Table.svg/1261px-ASCII-Table.svg.png
