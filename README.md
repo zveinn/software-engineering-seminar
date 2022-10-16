@@ -26,12 +26,12 @@
 ### Lesson 4
  * The CPU (central processing unit)
     - Intro to the CPU
+    - Algorithms - Big O notation
     - Recap from lessons 1, 2 and 3
 
 ### Lesson 5
  * Manipulating Data Types and Structures
     - Replacing, Transforming/Converting , Bit shifting, Sorting
-    - Algorithms - Big O notation
 
 ### Lesson 6
  * The Internet / Networking 
@@ -74,8 +74,9 @@
 ### Lesson 14
  * Recaping selected lessons
 
-### Lesson 15
+### Lesson 15 (maybe malware, but don't tell anyone)
  * SELF REPLICATING PROGRAMS
+ * PROGRAMS THAT KEEP OTHER PROGRAMS RUNNING
 
 <br>
 <br>

@@ -16,6 +16,7 @@ func main() {
 func memory() {
 
 	var XX = make([]int, 10, 10)
+
 	// var XX [10]int
 
 	fmt.Println("LENGTH(no. of items):", len(XX), " // CAPACITY(max items):", cap(XX), " \n DATA:", XX)
